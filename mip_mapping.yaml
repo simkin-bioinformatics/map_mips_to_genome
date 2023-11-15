@@ -1,0 +1,4 @@
+genome_name: P_vivax
+genome_fasta: /home/alfred/other_people/charlie/make_assembly_hub_plus_annotations/data/p_vivax.fa
+prefix: PvG
+mip_info_csv: mip_info.csv
